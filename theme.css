@@ -1,0 +1,15 @@
+/* Streetwear theme palette */
+:root {
+    --bg: #ffffff;
+    --surface: #ffffff;
+    --card: #ffffff;
+    --text: #0b0b0b;
+    --muted: #6b6b6b;
+    --accent: #0b0b0b;
+    --accent-dark: #333333;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+}
